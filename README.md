@@ -8,13 +8,9 @@ I've been lerning React.js for 1 year and Vue.js for 6 months. I graduated from 
 
 * 🌍  I'm based in Nakhonratchasima, Thailand
 * ✉️  You can contact me at [supha.golf2001@gmail.com](mailto:supha.golf2001@gmail.com)
-* 🧠  I'm learning Next.JS and Nuxt.JS
-
-<a href="https://www.github.com/Skeller1z" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Skeller1z?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🧠  I'm learning Next.JS
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
